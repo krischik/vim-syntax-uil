@@ -1,0 +1,3 @@
+[submodule "Wiki"]
+	path = Wiki
+	url = git@github.com:krischik/vim-uil.wiki.git

@@ -1,0 +1,40 @@
+= Motif UIL Syntax =
+
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1379
+
+== Description ==
+
+The original Motif/UIL Syntax file is missing some keywords and hasn't got folding support. This version does!
+
+== Installation ==
+
+Install from https://github.com/krischik/vim-uil using dein (https://github.com/Shougo/dein.vim) or similar:
+
+    call dein#begin('$HOME/vimfiles/bundles')
+    call dein#add('krischik/vim-uil')
+    call dein#end()
+    call dein#install()
+
+== References ==
+
+{|
+|+ Motif UIL Syntax
+|-
+| Vim-Script	|| https://www.vim.org/scripts/script.php?script_id=1379
+|-
+| Source	|| https://github.com/krischik/vim-uil
+|-
+| Wiki		|| https://github.com/krischik/vim-uil/wiki
+|-
+| Releases	|| https://github.com/krischik/vim-uil/releases
+|-
+| Issues	|| https://github.com/krischik/vim-uil/issues
+|-
+| Discussions	|| https://github.com/krischik/vim-uil/discussions
+|}
+
+==Comments==
+
+/* vim: set textwidth=0 wrap tabstop=8 shiftwidth=4 softtabstop=4 noexpandtab : */
+/* vim: set filetype=mediawiki fileencoding=utf8 fileformat=unix foldmethod=marker : */
+/* vim: set nospell spelllang=en_gb : */
